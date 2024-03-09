@@ -1,4 +1,4 @@
-# Projeto de um sistema para gestão de biblioteca em Java com integração de banco de dados MySQL
+# Sistema para gestão de biblioteca em Java com integração de banco de dados MySQL
 
 _Problema:_
 É preciso que haja um sistema para administrar de melhor forma uma biblioteca, pois o acervo contém milhares de livros, e é necessário manter o registro de todos eles: títulos, autores, categorias, datas de publicação e disponibilidade. Além disso, os usuários da biblioteca desejam consultar o catálogo, emprestar e devolver livros.
