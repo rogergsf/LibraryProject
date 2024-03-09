@@ -1,5 +1,5 @@
 # Projeto-Library
-*Projeto em Java e integração de banco de dados SQL*
+*> Projeto em Java com integração de banco de dados MySQL <*
 
 _Problema:_
 É preciso que haja um sistema para administrar de melhor forma uma biblioteca, pois o acervo contém milhares de livros, e é necessário manter o registro de todos eles: títulos, autores, categorias, datas de publicação e disponibilidade. Além disso, os usuários da biblioteca desejam consultar o catálogo, emprestar e devolver livros.
