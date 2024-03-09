@@ -3,8 +3,7 @@
 _Problema:_
 É preciso que haja um sistema para administrar de melhor forma uma biblioteca, pois o acervo contém milhares de livros, e é necessário manter o registro de todos eles: títulos, autores, categorias, datas de publicação e disponibilidade. Além disso, os usuários da biblioteca desejam consultar o catálogo, emprestar e devolver livros.
 
-_Resolução:_
-- Criaremos um sistema de gerenciamento de biblioteca usando Java e MySQL. Aqui estão os passos principais:
+_Resolução:_ Criaremos um sistema de gerenciamento de biblioteca usando Java e MySQL. Aqui estão os passos principais:
 
 _Modelagem do Banco de Dados:_
 - Criaremos uma estrutura de tabelas no banco de dados para armazenar informações sobre livros, autores, categorias e empréstimos.
@@ -19,9 +18,9 @@ DELETE: Remover registros quando um livro é devolvido ou um usuário é excluí
 
 _Interface do Usuário:_
 - Criaremos uma interface gráfica utilizando Java SWING para interagir com o sistema.
-- Os usuários devem ter a possibilidade de:
-Pesquisar livros por título, autor ou categoria;
-Registrar empréstimos e devoluções;
+- Os usuários devem ter a possibilidade de:<br>
+Pesquisar livros por título, autor ou categoria;<br>
+Registrar empréstimos e devoluções;<br>
 Visualizar informações detalhadas sobre um livro específico.
 
 
