@@ -21,8 +21,8 @@ Excluir: Removeremos registros quando um livro é devolvido ou um usuário é ex
 _Interface do Usuário:_
 - Criaremos uma interface gráfica utilizando Java SWING para interagir com o sistema.
 - Os usuários devem ter a possibilidade de:
-Pesquisar livros por título, autor ou categoria.
-Registrar empréstimos e devoluções.
+Pesquisar livros por título, autor ou categoria;
+Registrar empréstimos e devoluções;
 Visualizar informações detalhadas sobre um livro específico.
 
 
