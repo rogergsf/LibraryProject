@@ -28,6 +28,5 @@ Visualizar informações detalhadas sobre um livro específico.
 
 
 _Importância do Projeto:_
-
-Organização: Uma biblioteca bem gerenciada é essencial para manter o acervo organizado e acessível aos usuários.
+- Organização: Uma biblioteca bem gerenciada é essencial para manter o acervo organizado e acessível aos usuários.
 
