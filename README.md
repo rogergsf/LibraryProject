@@ -12,10 +12,14 @@ _Modelagem do Banco de Dados:_
 
 _Implementação do CRUD:_
 - Criaremos classes Java para representar entidades como Livro, Autor, Usuário e Empréstimo. Implementaremos as operações CRUD (Create, Read, Update, Delete) para cada entidade:
-Criar: Adicionaremos novos livros, autores e usuários ao sistema.
-Ler: Consultaremos informações sobre livros, autores e usuários.
-Atualizar: Modificaremos detalhes de livros, autores ou usuários.
-Excluir: Removeremos registros quando um livro é devolvido ou um usuário é excluído.
+  
+Create: Adicionaremos novos livros, autores e usuários ao sistema.
+
+Read: Consultaremos informações sobre livros, autores e usuários.
+
+Update: Modificaremos detalhes de livros, autores ou usuários.
+
+Delete: Removeremos registros quando um livro é devolvido ou um usuário é excluído.
 
 _Interface do Usuário:_
 - Criaremos uma interface gráfica utilizando Java SWING para interagir com o sistema.
