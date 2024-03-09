@@ -19,8 +19,7 @@ Atualizar: Modificaremos detalhes de livros, autores ou usuários.
 Excluir: Removeremos registros quando um livro é devolvido ou um usuário é excluído.
 
 _Interface do Usuário:_
-Criaremos uma interface gráfica utilizando Java SWING para interagir com o sistema.
-
+- Criaremos uma interface gráfica utilizando Java SWING para interagir com o sistema.
 - Os usuários devem ter a possibilidade de:
 Pesquisar livros por título, autor ou categoria.
 Registrar empréstimos e devoluções.
