@@ -25,3 +25,6 @@ Visualizar informações detalhadas sobre um livro específico.<br><br>
 
 _<b>Importância do Projeto:</b>_
 - Organização: Uma biblioteca bem gerenciada é essencial para manter o acervo organizado e acessível aos usuários.
+
+_<b>Link do Figma:</b>_
+https://www.figma.com/file/PQskKKGPvyFoDLjzcvneob/Books-Digital-Library?type=design&node-id=0-1&mode=design&t=twyrOW7Xqw9pT7fG-0
